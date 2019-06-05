@@ -1,0 +1,23 @@
+1a Questão: Desenhe um segmento de reta AB de 11cm.
+2a Questão: Desenhe um segmento de reta CD de 11cm e divida-o em 7 partes iguais.
+3a Questão: Desenhe um segmento de reta EF de 13cm e trace a sua mediatriz.
+4a Questão: Desenhe os ângulos de 30o, 45o, 60o e 90o.
+5a Questão: Desenhe as bissetrizes dos ângulos da questão anterior.
+6a Questão: Construa um quadrado cujo perímetro mede 16cm.
+7a Questão: Construa um triângulo equilátero cujo perímetro mede 9cm.
+8a Questão: Construa um triângulo isósceles cuja base mede 4cm e a altura mede 6cm.
+9a Questão: Construa um triângulo isósceles cuja base mede 4cm e os lados congruentes
+medem 6cm.
+10a Questão: Construa um triângulo conhecendo dois de seus lados e o ângulo formado
+por eles. Dados: AB = 5cm, AC = 6cm e â = 60o BC =?
+11a Questão: Construa um triângulo isósceles cuja base mede 5cm e os seus ângulos
+medem 45o.
+12a Questão: Construa um triângulo retângulo cujos catetos medem 6cm e o outro 3cm.
+13a Questão: Construa um triângulo escaleno cujos lados medem 8cm, 6cm e 4cm.
+14a Questão: Divida uma circunferência de raio 3cm em 3 partes iguais.
+15a Questão: Divida uma circunferência de raio 3cm em 4 partes iguais.
+16a Questão: Divida uma circunferência de raio 3cm em 5 partes iguais.
+17a Questão: Divida uma circunferência de raio 3cm em 6 partes iguais.
+18a Questão: Divida uma circunferência de raio 3cm em 8 partes iguais.
+19a Questão: Divida uma circunferência de raio 3cm em 10 partes iguais.
+20a Questão: Divida uma circunferência de raio 3cm em 12 partes iguais.
