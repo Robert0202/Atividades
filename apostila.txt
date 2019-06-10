@@ -1,0 +1,569 @@
+I – FÍSICA
+Introdução
+É a ciência que estuda os fenômenos que ocorrem
+na natureza.
+1 - NOTAÇÃO CIENTÍFICA
+Para manipular os números, que têm grandes
+quantidades de zeros, os cientistas utilizam a
+Notação Científica, fazendo uso da potência de dez.
+A regra é a seguinte:
+“Qualquer número real g pode ser escrito como o
+produto de um número a, cujo módulo está entre 1
+e 10, por outro, que é uma potência de 10, com
+expoente inteiro (10n
+)
+g = a. 10n
+ 1 = / a / < 10
+Exemplos:
+a) 20000 = 2. 104
+b) 5.300.000 = 5,3.106
+c) 0,000.000.24 = 2,4.10-7
+d) 780 = 7,80.102
+e) 822 = 8,22.102
+f ) 0,00001 = 1,0.10-5
+Exercícios:
+1 - Coloque os números seguintes em forma de
+notação científica:
+a) 24.500 =
+b) 78000.000 =
+c) 3478000 =
+d) 0,0005667 =
+e) 0,0085 =
+f) 3000000 =
+g) 0,450 =
+h) 0,000525 =
+i) 345,65 =
+j) 7500,3 =
+k) 120000,7 =
+2 - Quais dos números a seguir estão escritos em
+notação científica?
+a) 5,4 b) 10.105
+ c) 4.10-6
+d) 0,005 e) 4.10 f) 0,23.105
+g) 2.108
+ h) 65.10-3
+ i) 9,5.10-3
+3 - O raio médio da Terra é cerca de 6.370.000 m.
+Escreva esse número em notação científica.
+2 - ORDEM DE GRANDEZA
+A ordem de grandeza é a potência de 10, de
+expoente inteiro, que mais se aproxima do módulo
+da medida da grandeza analisada.
+10n < / g / < 10n+1
+Para obter a ordem de grandeza de um número
+devemos, inicialmente escrevê-lo em notação
+científica.
+Para decidir se a ordem de grandeza é 10n ou 10n+1
+, devemos comparar o número a com o valor 5.
+/ a / = 5,5 = ordem de grandeza 10n
+/ a / > 5,5 = ordem de grandeza 10n+1
+Exemplos:
+a) 7500 = 7,5.103
+ = OG = 104+1 = 105
+b) 2,5.106 = OG = 106
+c) 5,8.104 = OG = 104+1 = 105
+d) 0,00087 = 8,7.10-4 = OG = 10-4+1 = 10-3
+Exercícios:
+1 - Determine a ordem de grandeza dos números:
+a) 0,000.007 =
+g) 0,032.104
+b) 4.000.000.000 =
+c) 0,125 =
+i ) 1.200.000.000
+d) 345000 =
+e) 68000000 =
+2 - Um foguete se deslocou, percorrendo, em
+média, 40.000 km/h. Qual foi a ordem de grandeza
+do deslocamento, em quilômetros, realizado pelo
+foguete durante 9 h?
+3 - Um elevador tem capacidade máxima para 8
+pessoas. Supondo cada pessoa com 80 kg, em
+média, determine a ordem de grandeza, em
+quilogramas, que o elevador pode transportar.
+3
+3 - MEDIDAS DE GRANDEZAS
+Para medir qualquer grandeza precisamos comparála com outra de mesma espécie, tomada como
+padrão.
+As unidades padrões de comprimento, massa e
+tempo, no Sistema Internacional de Unidades ( S.I.
+), são:
+Sistema Internacional de Medida
+Grandeza Unidade Símbolo
+Comprimento metro m
+Massa quilograma kg
+tempo segundo s
+II - CINEMÁTICA
+ É a parte da mecânica que estuda os
+movimentos sem se referir às causas produtoras.
+1 - MÓVEL - é todo corpo em movimento.
+2 - TRAJETÓRIA - é o caminho descrito pelo
+móvel.
+3 - POSIÇÃO - é a localização do móvel numa
+trajetória.
+4 - REFERENCIAL - é qualquer corpo que serve
+como referência, para se definir a posição de um
+dado corpo.
+5 - MOVIMENTO - um corpo está em movimento,
+quando sua posição varia no espaço, com o decorrer
+do tempo, relativamente a um dado referencial.
+6 - REPOUSO - um corpo está em repouso se sua
+posição permanece a mesma, no decorrer do tempo,
+relativamente a um dado referencial.
+7 - ESPAÇO - é a diferença algébrica entre duas
+posições de onde se encontra o móvel. O espaço é
+indicado pela letra (S).
+ 0 km 10 km 20 km 50
+ s1=
+ s2 =
+ s3 =
+8 - DESLOCAMENTO
+Se So é o espaço de um móvel num certo instante to
+e S é o espaço no instante posterior t, chama-se
+Deslocamento escalar ou simplesmente
+Deslocamento, a seguinte diferença:
+marco zero km 10 km 50
+ ?S
+ S0
+ S
+A letra grega ? (delta) está indicando variação do
+espaço S.
+Onde: ?S = Deslocamento ou variação de espaço
+ So = Espaço inicial
+ S = Espaço final
+Exercícios:
+1 - Se um carro vai do km120 ao km 270, então seu
+deslocamento é = ____________
+2 - Se um carro vai do km240 ao km 80, então seu
+deslocamento é = ____________
+4
+3 - Se você anda 50m e logo em seguida, retorna
+20m pelo mesmo caminho, determine:
+a) o deslocamento na ida
+b) o deslocamento no retorno
+c) o deslocamento total
+d) o espaço total percorrido
+4 – Um móvel percorre 350 metros e logo em
+seguida retorna 80 metros pelo mesmo caminho,
+determine:
+a) o deslocamento na ida
+b) o deslocamento no retorno
+c) o deslocamento total
+d) o espaço total percorrido
+5 – Considere que um móvel desloque 250 km em
+linha reta e logo em seguida retorna 250 km pelo
+mesmo caminho. Determine:
+a) o deslocamento total,
+b) o espaço total percorrido.
+9 - VELOCIDADE ESCALAR MÉDIA
+Se So e S são os espaços de um móvel nos instantes
+to e t; a velocidade média ( cujo o símbolo é Vm )
+entre to e t é definida por:
+
+ e ?t = t - to
+
+Obs: quando ?S > 0 , o movimento é dito
+progressivo
+ quando ?S < 0 , o movimento é dito
+retrógrado
+Unidades de velocidade.
+e
+Relação entre as unidades de velocidade.
+ divide por 3,6
+
+
+multiplica por 3,6
+Exercícios:
+1 - Um automóvel passa pelo marco quilométrico
+50 no instante em que o relógio marca 7h, e às 11h
+passa pelo marco quilométrico 210. Determine:
+a) o deslocamento nesse intervalo de tempo.
+b) a velocidade média no mesmo intervalo de
+tempo.
+2 – Um móvel passa pela posição km 100 no
+instante to = 4h, e no instante t = 9h passa pela
+posição km 300. Determine a velocidade média
+(km/h ) do móvel.
+3 – Um trem percorre uma distância de 360 km em
+5 horas. Determine sua velocidade escalar média
+em m/s.
+4 - Um móvel percorre uma distância de 1200
+metros em 4 minutos. Qual sua velocidade escalar
+média em m/s?
+5 - Uma partícula percorre 30 metros com
+velocidade escalar média de 36 km/h. Em quanto
+tempo faz este percurso?
+6 - Um trem de comprimento 200m gasta 20s para
+atravessar um túnel de comprimento 400m.
+Determine a velocidade escalar média do trem.
+7 – Um trem com velocidade escalar média de 72
+km/h leva 1 min para atravessar um túnel de 800 m
+de comprimento. Qual o comprimento do trem?
+8 – Um ciclista percorre uma pista com velocidade
+de 36 km/h. A velocidade do ciclista em m/s é:
+to – instante inicial
+t – instante final
+5
+a) 36 b) 20 c) 12 d)
+10 e) 6
+9 – Qual é a velocidade média, em km/h, de uma
+pessoa que percorre, a pé, 1200 m em 20 min?
+a) 4,8 b) 3,6 c) 2,7 d)
+2,1 e) 1,2
+10 – Um móvel passa pelo espaço S1 = 20 m no
+instante t1 = 5s, e pelo espaço S2 = 60 m no instante
+t2 = 10s. Quais são, respectivamente, os valores do
+deslocamento e da velocidade média entre os
+instantes t1 e t2 ?
+a) 40m e 8m/s b) 60m e 10m/s c) 60m e 12m/s
+d) 40m e 14m/s e) 50m e 16m/s
+11 – Um ônibus faz o trajeto entre duas cidades em
+duas etapas: na primeira efetua um deslocamento de
+120 km a 60 km/h, na segunda, um deslocamento
+de 250 km em 3h. Qual a velocidade escalar média
+do veículo em todo o trajeto?
+12 – Um trem de 100 m de comprimento leva 30s
+para atravessar um túnel de 0,5 km. Qual a
+velocidade escalar média do trem, em m/s ?
+13 – Uma moto leva 2 min para atravessar uma
+ponte com velocidade escalar média de 72 km/h.
+Determine o comprimento da ponte.
+14 – Um ônibus faz o trajeto entre duas cidades em
+duas etapas. Na primeira, percorre uma distância de
+150 km em 90 min. Na segunda, percorre 220 km
+em 150 min. A velocidade média do ônibus durante
+toda a viagem é de:
+a) 1,6 km/h b) 64 km/h c) 92,5 km/h
+d) 94 km/h e) 185 km/h
+15 – Um veículo percorre 100 m de uma trajetória
+retilínea com velocidade escalar constante de 25
+m/s, e os 300 m seguintes com velocidade constante
+igual a 50 m/s. A velocidade média durante o trajeto
+todo é de:
+a) 37,5 m/s b) 40 m/s c) 53,3 m/s
+d) 75 m/s e) 50 m/s
+10 - ACELERAÇÃO ESCALAR MÉDIA
+Num movimento variado, seja ( ?V = V – Vo ) a
+variação de velocidade no intervalo de tempo ?t. A
+aceleração escalar média ( Am ), no intervalo de
+tempo ?t é por definição:
+
+ onde ?V = V - Vo
+
+Exercícios:
+1 - O anúncio de um certo tipo de automóvel,
+menciona que o veículo; partindo do repouso,
+atinge a velocidade de 108 km/h em 5 segundos.
+Qual a aceleração escalar média desse automóvel?
+2 - Partindo do repouso, um avião percorre a pista e
+atinge a velocidade de 360 km/h em 25 segundos.
+Qual o valor da aceleração escalar média no
+referido intervalo de tempo?
+3 - Determine o instante em que um avião partindo
+do repouso com aceleração escalar de 5 m/s2
+,
+atinge a velocidade de 20 m/s.
+4 - Determine o instante em que um carro, partindo
+do repouso com aceleração escalar de 10 m/s2
+,
+atinge a velocidade de 108 km/h.
+5 - Um móvel está com velocidade de 40 m/s,
+quando se inicia a contagem dos tempos. Sabendo
+que 5s depois sua velocidade passa a 30 m/s, e
+supondo o movimento variado, determine a
+aceleração escalar média do móvel.
+6 - Um móvel está com velocidade de 10 m/s,
+quando se inicia a contagem dos tempos. Determine
+a velocidade do móvel, 5s depois, sabendo que sua
+aceleração escalar é constante e de 2 m/s2
+.
+6
+11 - MOVIMENTO RETILÍNEO UNIFORME
+( MRU )
+Um movimento é dito uniforme, quando a
+velocidade de um móvel se mantém constante, no
+decorrer do tempo, qualquer que seja a trajetória.
+Um movimento é retilíneo e uniforme se a trajetória
+for retilínea e a velocidade constante.
+O movimento uniforme é expresso pela seguinte
+equação horária ou função horária dos espaços:
+Obs: No movimento uniforme, a velocidade escalar
+é constante e a aceleração escalar é nula.
+A equação horária do MRU é uma função de 1o grau
+( f(x) = ax + b ), representada pelos seguintes
+gráficos:
+a) gráfico s x t ( espaço em função do tempo)
+ s
+ t
+b) gráfico v x t ( velocidade em função do tempo)
+ v
+
+ t
+Exercícios:
+1 – Dadas as funções horárias abaixo, determine o
+espaço inicial e a velocidade escalar ( no S.I ) e
+classifique o movimento em progressivo ou
+retrógrado.
+a) S = 10 + 2t _____________________________
+b) S = 20 - 5t _____________________________
+c) S = -50 + 3t ____________________________
+d) S = -70 – 4t ____________________________
+e) S = 8t _________________________________
+f) S = -6t _________________________________
+2 - É dada a função horária S = 20 - 4t ,no ( S.I ),
+que descreve o movimento de um ponto material
+num determinado referencial. Determine:
+a) o espaço inicial e a velocidade escalar;
+b) o tipo do movimento e se o mesmo é progressivo
+ou retrógrado;
+c) o espaço do móvel quando t = 2s;
+d) o instante quando o móvel está na posição cujo
+espaço é igual a 8 m;
+e) o instante em que o móvel passa pela origem dos
+espaços (marco zero).
+3 - É dado o movimento S = 100 + 8t, no (S.I)
+Determine:
+a) o espaço inicial e a velocidade escalar;
+b) o espaço quando t = 5s;
+c) o instante em que o móvel se encontra a 500m da
+origem dos espaços;
+d) se o movimento é progressivo ou retrógrado.
+4 - Um móvel parte da posição 10m, em movimento
+retilíneo e uniforme, e 5s depois, passa pela posição
+30m. Determine:
+a) a velocidade do móvel;
+b) a equação horária do movimento.
+5 - Um móvel, em movimento retilíneo e uniforme,
+parte da posição 100m e, 3s depois, passa pela
+posição 70m. Determine:
+a) a velocidade do móvel;
+b) a equação horária do movimento.
+6 - Dois móveis percorrem a mesma trajetória e seus
+espaços estão medidos a partir do marco escolhido
+na trajetória. Suas funções horárias são: Sa = 30 -
+80t e Sb = 10 + 20t, onde t é o tempo em horas e
+Sa e Sb são os espaços em quilômetros. Determine
+o instante e a posição do encontro.
+7 - Dois móveis percorrem a mesma trajetória e seus
+espaços estão medidos a partir do marco escolhido
+na trajetória. Suas funções horárias são: Sa = 40t e
+Sb = 100 - 10t, ( no S.I ). Determine o instante e a
+posição do encontro.
+7
+8 – ( UEL-PR ) – Duas cidades, A e B, distam entre
+si 400km. Da cidade A parte um carro P dirigindose à cidade B e, no mesmo instante, parte de B outro
+carro Q, dirigindo-se a ª Os carros P e Q executam
+movimentos uniformes e suas velocidades escalares
+são de 30 km/h e 50 km/h, respectivamente. A
+distância da cidade A ao ponto de encontro dos
+carros P e Q, em quilômetros, vale:
+a) 120 b) 150 c) 200
+d) 240 e) 250
+9 – (PUC-RS) Dois automóveis, A e B, percorreram
+uma trajetória retilínea conforme as equações
+horárias As = 30 + 20t e Sb = 90 – 10t, sendo a
+posição S em metros e o tempo t em segundos. No
+instante t = 0s, a distância, em metros, entre os
+automóveis era de:
+a) 30 b) 50 c) 60
+d) 80 e) 120
+10 – (PUC-RS) O instante de encontro, em
+segundos, entre os dois automóveis do exercício
+anterior foi:
+a) 1 b) 2 c) 3
+d) 4 e) 5
+12 - MOVIMENTO UNIFORMEMENTE
+VARIADO ( MUV )
+No MUV., a aceleração escalar instantânea é
+constante com o tempo e diferente de zero.
+Um movimento uniformemente variado, possui
+aceleração ( a ) constante com o tempo e velocidade
+( v ) variável, conforme as seguintes funções
+horárias.
+Equação horária da velocidade
+ V = V0 + at
+Função horária dos espaços
+
+O movimento uniformemente variado pode ser
+Acelerado ou Retardado.
+a) - Movimento Acelerado ( Velocidade e
+Aceleração com mesmo sinal )
+V > 0
+ Movimento Acelerado Progressivo
+a > 0
+V < 0
+ Movimento Acelerado Retrógrado
+a < 0
+b) - Movimento Retardado ( Velocidade e
+Aceleração com sinais contrários)
+V > 0
+ Movimento Retardado Progressivo
+a < 0
+V < 0
+ Movimento Retardado Retrógrado
+a > 0
+Exercícios:
+1 - É dada a função V = 12 - 2t, no (S.I).
+a) Determine a velocidade escalar inicial e a
+aceleração escalar do movimento.
+b) Discuta se o movimento é acelerado ou retardado
+nos instantes 2s e 8s.
+c) Verifique se há mudança de sentido do
+movimento,(construa o gráfico)se houver, em que
+instante.
+2 - É dada a função V = -20 +5t, no (S.I).
+a) Determine a velocidade escalar inicial e a
+aceleração escalar do movimento.
+b) Discuta se o movimento é acelerado ou retardado
+nos instantes 3s e 7s.
+8
+c) Verifique se há mudança de sentido do
+movimento,(construa o gráfico) se houver, em que
+instante).
+3 - É dado o movimento cuja velocidade escalar
+obedece à expressão: V = 3 - 2t ,(S.I). Determine:
+a) a velocidade escalar inicial do movimento;
+b) a aceleração escalar;
+c) a velocidade escalar no instante t = 5s;
+d) em que instante o móvel muda de sentido.
+4 - É dada a função V = 10 + 5t, (no S.I).
+a) Determine a velocidade inicial e a aceleração
+escalar do movimento.
+b) Verifique se há mudança de sentido do móvel
+após o instante t = 0s (construa o gráfico).
+5 - É dado o movimento cujo espaço S, medido na
+trajetória ( em metros ) a partir de uma origem, varia
+em função do tempo, segundo:
+,(no S.I).
+a) Determine o espaço e a velocidade iniciais e a
+aceleração escalar.
+b) Determine a função da velocidade escalar em
+relação ao tempo.
+c) Verifique se o móvel muda de sentido; se mudar,
+determine o espaço nesse instante.
+6 - Um móvel descreve um MUV numa trajetória
+retilínea e os espaços variam no tempo de acordo
+com a expressão. no (S.I).
+Determine:
+a) o espaço inicial ( So), a velocidade inicial ( Vo )
+e aceleração escalar ( a );
+b) a função da velocidade escalar;
+c)Verifique se o móvel muda de sentido, se mudar,
+determine o instante.
+7 - É dado o movimento: (S.I ).
+Determine:
+a) a velocidade inicial do movimento;
+b) a aceleração escalar;
+c) Verifique se o móvel muda de sentido, se mudar,
+determine o instante.
+d) Discuta se o movimento e acelerado ou retardado
+para t=2s.
+8 - É dado o movimento: (S.I ).
+Determine:
+a) a velocidade inicial do movimento;
+b) a aceleração escalar;
+c) Verifique se o móvel muda de sentido, se mudar,
+determine o instante.
+9 - Um ponto material está em movimento e sua
+velocidade escalar varia com o tempo segundo a
+expressão: V = 6 - 3t, (S.I). Determine:
+a) a velocidade escalar inicial do movimento;
+b) a aceleração escalar;
+c) o instante em que o móvel muda de sentido;
+d) a função horária S = f(t) do movimento, sendo
+15m o espaço inicial.
+10 - É dado o movimento cuja velocidade obedece
+à expressão: V = -8 + 2t, onde t está em segundos
+e V em m/s. Determine:
+a) a velocidade escalar inicial;
+b) a aceleração escalar;
+c) o instante em que o móvel muda de sentido;
+d) a função horária S=f(t), sabendo-se que no
+instante inicial o espaço do móvel é igual a 5m.
+14 - EQUAÇÃO DE TORRICELLI PARA O
+MUV
+No MUV, há muitos casos nos quais interessa
+relacionar a velocidade escalar V em função do
+espaço S, o que é feito através da chamada Equação
+de Torricelli, que demonstraremos a seguir.
+ V2 = Vo
+2
+ + 2 a ?S
+Exercícios
+1 - Um carro a 90 km/h é freado uniformemente
+com a aceleração escalar de 2,5 m/s2
+ (em módulo) 
+9
+até parar. Determine a variação do espaço do móvel
+desde o início da freagem até parar.
+R: 125m
+2 - Um móvel parte do repouso e com aceleração
+constante de 5 m/s2
+atinge a velocidade de 20 m/s.
+Determine a variação de espaço do móvel enquanto
+sua velocidade variava.
+R: 40m
+3 - A velocidade escalar de um trem se reduz
+uniformemente de 12 m/s para 6,0 m/s. Sabendo-se
+que durante esse tempo o trem percorre a distância
+de 100 m, qual o módulo de sua desaceleração?
+R: 0,54 m/s2
+4 - Uma composição do metrô parte de uma estação,
+onde estava em repouso , e percorre 100m com
+aceleração escalar constante atingindo 20 m/s.
+Determine a aceleração escalar a e a duração t do
+processo. R: 2 m/s2
+ e t = 10s
+5 - Um automóvel que anda com velocidade escalar
+de 72 km/h é freado de tal forma que 6,0s após o
+início da freada, sua velocidade escalar é de 8,0 m/s
+O tempo gasto pelo móvel até parar e a distância
+percorrida até então valem, respectivamente:
+a) 10s e 100m b) 10s e 200m c) 20s e 100m
+d) 20s e 200m e) 5s e 150m
+6 - Um trem de 120m de comprimento se desloca
+com velocidade escalar de 20 m/s. Esse trem, ao
+iniciar a travessia de uma ponte, freia
+uniformemente, saindo completamente da mesma
+10s após com velocidade escalar de 10 m/s. O
+Comprimento da ponte é:
+a) 150m b) 120m c) 90m
+d) 60m e) 30m
+III - VETORES
+3.1 - Grandezas escalares e grandezas vetoriais
+Muitas grandezas ficam perfeitamente definidas
+quando delas conhecemos o valor numérico e a
+correspondente unidade. Grandezas que
+necessitam, além do valor numérico e unidade, de
+direção e sentido para serem definidas são
+chamadas Grandezas Vetoriais, sendo
+representadas matematicamente por vetores.
+Representa-se o vetor por um segmento orientado,
+como o segmento orientado AB da figura abaixo. A
+é a origem e B a extremidade. O comprimento de
+“A” a “B” representa o módulo do vetor numa
+escala de representação gráfica.
+ B
+ V
+ A
+Assim um vetor possui módulo, direção e sentido.
+ vetor: V
+Notação
+ módulo do vetor: / V / ou V
+Dois vetores são iguais quando têm o mesmo
+módulo, mesma direção e mesmo sentido. Dois
+vetores são diferentes quando têm ao menos um
+desses elementos diferente.
+3 – Um corpo de massa m = 2,0 kg movimenta-se
+numa mesa horizontal sob ação de uma força
+horizontal F de intensidade 8,0 N, conforme mostra
+a figura. Sendo 2,0 m/s2
+a aceleração que o corpo
+adquire, determine:
+a) a intensidade da força de atrito que a mesa exerce
+no corpo; Resp: = 4,0 N
+b) o coeficiente de atrito dinâmico entre o corpo e a
+mesa. É dado g = 10 m/s2
+ Resp: µd = 0,20
+
+ a = 2 m/s2
+ F = 8N
