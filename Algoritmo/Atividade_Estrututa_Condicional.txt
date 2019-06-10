@@ -1,0 +1,8 @@
+Joadson foi a uma imobiliaria e decidiu comprar uma apartamento de R$150.000,00, a imobiliaria lhe passou que a vista
+teria 10% de desconto ou a prazo com entrada de R$50.000,00 mais 80 vezes de R$1.600,00.
+Construa um algoritmo que receba a escolha de Joadson(1 para a vista, 2 para a prazo) e retorne o valor que ele irá pagar.
+
+Dica:
+
+Se o usuario digitar 1, retornar 10% de R$150.000,00
+Se o usuario digitar 2, retornar R$50.000,00 + 80 x R$1.600,00
