@@ -1,3 +1,4 @@
+QUESTÃO 1
 Joadson foi a uma imobiliaria e decidiu comprar uma apartamento de R$150.000,00, a imobiliaria lhe passou que a vista
 teria 10% de desconto ou a prazo com entrada de R$50.000,00 mais 80 vezes de R$1.600,00.
 Construa um algoritmo que receba a escolha de Joadson(1 para a vista, 2 para a prazo) e retorne o valor que ele irá pagar.
@@ -6,3 +7,34 @@ Dica:
 
 Se o usuario digitar 1, retornar 10% de R$150.000,00
 Se o usuario digitar 2, retornar R$50.000,00 + 80 x R$1.600,00
+
+QUESTÃO 2
+Construa uma calculadora que execute as 4 operações em 2 valores informado pelo usuário.
+Passo a passo
+
+1 - Usuário escolhe a opção 
+	[1] Somar
+	[2] Subtrair
+	[3] Multiplicar
+	[4] Dividir
+2 - Usuário Informa 2 valores
+3 - Se opção for 1, somar os dois valores.
+    Se opção for 2, subtrair o primerio valor do segundo
+    Se opção for 3, Multiplicar os valores
+    Se opção for 4, Dividir o primeiro valor sobre o segundo
+4 - Informar resultado!	
+
+QUESTÃO 3
+O usuário deve informar o preço de 3 celulares, e o algoritmo deve imprimir do mais caro para o mais barato.
+
+Ex: Cel1 = 900 Cel2 = 1100 Cel3= 980
+Impressão: 1100, 980, 900
+
+QUESTÃO 4
+Passo a passo
+
+1 - Construa um algoritmo que receba um nome
+2 - Caso esse nome seja David, retorne "David é chefe"
+    Caso esse nome seja Robert, retorne "Robert é carregado"
+    Caso esse nome seja Joadson, retorne "Patrão"
+    Caso não seja nenhum dos nomes acima, retorne "Hoje não"
