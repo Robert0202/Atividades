@@ -6,13 +6,12 @@ Algoritmo "Q2"
 // Data atual  : 11/06/2019
 Var
 // Seção de Declarações das variáveis 
-chocolate, valorpago, troco, nota50, nota10, nota5, nota1, resto: inteiro
+valorpago, troco, nota50, nota10, nota5, nota1, resto: inteiro
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 escreval("Insira o valor pago")
 leia(valorpago)
-chocolate:= 1
 troco:= valorpago - 1
 
 nota50:= troco \ 50
