@@ -11,13 +11,12 @@ Se o usuario digitar 2, retornar R$50.000,00 + 80 x R$1.600,00
 QUESTÃO 2
 Construa uma calculadora que execute as 4 operações em 2 valores informado pelo usuário.
 Passo a passo
-
-1 - Usuário escolhe a opção 
+1 - Usuário Informa 2 valores
+2 - Usuário escolhe a opção 
 	[1] Somar
 	[2] Subtrair
 	[3] Multiplicar
 	[4] Dividir
-2 - Usuário Informa 2 valores
 3 - Se opção for 1, somar os dois valores.
     Se opção for 2, subtrair o primerio valor do segundo
     Se opção for 3, Multiplicar os valores
