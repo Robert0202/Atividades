@@ -1,0 +1,35 @@
+<html>
+	<body>
+		<video autoplay></video>
+		<button onclick="snap()">Snap!</button>
+		<div id="src"></div>
+	</body>
+	<script>
+		var video = document.querySelector('video');
+		var snapshotCanvas = document.getElementById('snapshot');
+		navigator.getUserMedia(
+			{ video: true }, 
+			function(stream) { 
+				console.dir(stream.getVideoTracks()); 
+				video.srcObject = stream;
+			}, 
+			function(err) { 
+				console.dir(err); 
+			});
+		function snap(){		
+			var canvas = document.createElement('canvas');
+			
+			var context = canvas.getContext('2d');
+			// Draw the video frame to the canvas.
+			context.drawImage(video, 0, 0, canvas.width, canvas.height);
+			
+			var img = document.createElement('img');
+			var url = canvas.toDataURL();
+			img.src = url;
+			
+			document.getElementById('src').append(url + '<hr />');
+			
+			document.body.appendChild(img);
+		}
+	</script>
+</html>
