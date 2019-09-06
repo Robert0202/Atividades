@@ -1,0 +1,8 @@
+n1=eval(input("informe a nota"))
+n2=eval(input("informe a nota"))
+n3=eval(input("informe a nota"))
+p1=eval(input("informe o peso"))
+p2=eval(input("informe o peso"))
+p3=eval(input("informe o peso"))
+mp=(n1*p1+n2*p2+n3*p3)/(p1+p2+p3)
+print("a media ponderada dele é",mp)
