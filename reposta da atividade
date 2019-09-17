@@ -1,4 +1,4 @@
-#+Uma loja vende 4 tipos de veiculo são eles SUV, Sedan, Hatch, Esportivo. Os carros SUV vendidos são
+﻿#+Uma loja vende 4 tipos de veiculo são eles SUV, Sedan, Hatch, Esportivo. Os carros SUV vendidos são
 #Renault Duster(R$75.000,00), Hyundai ix35 (R$90.000,00), Mitsubishi ASX (R$110.000,00), KIA Sportage
 #(R$125.000,00). Sedan são Ford KA Sedan (R$58.000,00), Chevrolet Classic (R$30.000,00), Renault Logan
 #(R$50.000,00)e Volkswagem Voyage (R$43.000,00). Os Hatch são Chevrolet Onix (R$40.000,00), Hyundai HB20
@@ -27,11 +27,12 @@ if (tipo=="suv") :
     print( "Mitsubishi ASX" )
     print(" coloque apenas o primeiro no do carro ")
     carro=str(input(" escolha o tipo de carro que você esta procurando  "))
-    if carro==renault and entraga==
+    if carro=="renault" and entraga=="casa" and cor=="padrão"
         print(" carro escolhido foi o renaul duster ")
-    elif carro==hyundai :
-        print(" carro escolhido foi o hyundai ")
-    elif carro==mitsubishi :
+    elif carro=="renault" and entraga=="casa" and cor=="unica"
+        print(" ")
+    elif carro=="renault" and entraga=="buscar" and cor=="padrão"
         print(" carro escolhido foi o mitsubishi ")
+    elif carro=="renault" and entraga=="buscar" and cor=="unica"
     else :
         print(" voce colocou uma opção errada tente novamente ")
