@@ -1,0 +1,38 @@
+﻿#+Uma loja vende 4 tipos de veiculo são eles SUV, Sedan, Hatch, Esportivo. Os carros SUV vendidos são
+#Renault Duster(R$75.000,00), Hyundai ix35 (R$90.000,00), Mitsubishi ASX (R$110.000,00), KIA Sportage
+#(R$125.000,00). Sedan são Ford KA Sedan (R$58.000,00), Chevrolet Classic (R$30.000,00), Renault Logan
+#(R$50.000,00)e Volkswagem Voyage (R$43.000,00). Os Hatch são Chevrolet Onix (R$40.000,00), Hyundai HB20
+#(R$39.000,00), Forda KA Hatch (R$37.000,00) e Fiat Uno (R$1.000.000,00) e por ultimo os Esportivos
+#Volkswagem Jetta Highline (R$175.000,00), Audi A1 Sportback (R$200.000,00), Mini Cooper (R$120.000,00)
+#e Volvo S60 (R$245.000,00).
+#O usuario devera selecionar o tipo, carro, tipo de entrega(vai buscar na concessionaria não muda o valor,
+#entrega em casa +2% em cima do valor do carro)e por ultimo cor do carro(cor padrão não muda o valor,
+#cores unicas +2% em cima do valor do carro).
+#No final deve exibir o valor final do carro.
+print(" SUV ")
+print(" Sedan ")
+print(" Hatch ")
+print(" Esportivo ")
+print(" coloque tudo em letras minusculas ")
+tipo=str(input(" escolha o tipo de carro que você esta procurando  "))
+print(" casa ")
+print(" buscar ")
+entrega=str(input(" voce quer buscar o carro ou entregue em casa   "))
+print(" unica ")
+print(" padrão ")
+cor=str(input(" cores padrão ou unicas para o carro "))
+if (tipo=="suv") :
+    print( "Renault Duster" )
+    print( "Hyundai ix35" )
+    print( "Mitsubishi ASX" )
+    print(" coloque apenas o primeiro no do carro ")
+    carro=str(input(" escolha o tipo de carro que você esta procurando  "))
+    if carro=="renault" and entraga=="casa" and cor=="padrão"
+        print(" carro escolhido foi o renaul duster ")
+    elif carro=="renault" and entraga=="casa" and cor=="unica"
+        print(" ")
+    elif carro=="renault" and entraga=="buscar" and cor=="padrão"
+        print(" carro escolhido foi o mitsubishi ")
+    elif carro=="renault" and entraga=="buscar" and cor=="unica"
+    else :
+        print(" voce colocou uma opção errada tente novamente ")
