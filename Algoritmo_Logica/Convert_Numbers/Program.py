@@ -1,6 +1,6 @@
 import os
 x = 0
-
+#@clear - Variavel para limpar o console
 clear = lambda: os.system('cls')
 
 def dec2bin(number):
@@ -11,6 +11,9 @@ def bin2dec(number):
 
 def dec2hex(number):
     return hex(number)
+
+def hex2dec(number):
+    return int(number, 16)
 
 while(int(x) != 9):
     print("[1] Converter um número decimal para binário")
@@ -26,7 +29,9 @@ while(int(x) != 9):
     x = input("Escolha uma opção: ")
     options = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
     if x.isdecimal():
-
+        #Se a opção for 1 entra nessa condição
+        #@is.decimal - faz o check se o numero é do tipo decimal
+        #@dec2bin - chama a função responsavel por converter o número
         if int(x) == 1:
             number = input("Insira o numero decimal: ")
             if number.isdecimal():
@@ -82,6 +87,14 @@ while(int(x) != 9):
                 str(input('Pressione qualquer tecla + Enter para continuar! : '))
                 x = 0
                 clear()
+
+        elif int(x) == 4:
+            number = input("Insira o numero hexadecimal: ") 
+            decimalnumber = hex2dec(number)
+            print("Em decimal: ", decimalnumber)
+            str(input('Pressione qualquer tecla + Enter para continuar! : '))
+            x = 0
+            clear()
 
         elif int(x) not in options:
             print('Opção inexistente!')
