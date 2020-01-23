@@ -1,4 +1,9 @@
 import os
+import string
+
+#Modulo 'os' importado para usar a função de limpar o console
+#Modulo 'string' importado para usar a função que checa se uma string é um hexadecimal valido
+
 x = 0
 #@clear - Variavel para limpar o console
 clear = lambda: os.system('cls')
@@ -128,13 +133,21 @@ while(int(x) != 9):
 
         #Se a opção for 4 entra nessa condição
         #@hex2dec - chama a função responsavel por converter o número
+        #all() - função que checa se o valor é um hexadecimal valido
         elif int(x) == 4:
             number = input("Insira o numero hexadecimal: ") 
-            decimalnumber = hex2dec(number)
-            print("Em decimal: ", decimalnumber)
-            str(input('Pressione qualquer tecla + Enter para continuar! : '))
-            x = 0
-            clear()
+            if all(c in string.hexdigits for c in number):
+                decimalnumber = hex2dec(number)
+                print("Em decimal: ", decimalnumber)
+                str(input('Pressione qualquer tecla + Enter para continuar! : '))
+                x = 0
+                clear()
+            else:
+                print('Esse número não é um hexadecimal')
+                str(input('Pressione qualquer tecla + Enter para continuar! : '))
+                x = 0
+                clear()
+
 
         #Se a opção for 5 entra nessa condição
         #@is.decimal - faz o check se o numero é do tipo decimal
@@ -221,13 +234,20 @@ while(int(x) != 9):
 
         #Se a opção for 8 entra nessa condição
         #@hex2bin - chama a função responsavel por converter o número
+        #all() - função que checa se o valor é um hexadecimal valido
         elif int(x) == 8:
             number = input("Insira o numero Hexadecimal: ")
-            binarynumber = hex2bin(number)
-            print("Em Binario: ", binarynumber)
-            str(input('Pressione qualquer tecla + Enter para continuar! : '))
-            clear()
-            x = 0
+            if all(c in string.hexdigits for c in number):
+                binarynumber = hex2bin(number)
+                print("Em Binario: ", binarynumber)
+                str(input('Pressione qualquer tecla + Enter para continuar! : '))
+                clear()
+                x = 0
+            else:
+                print('Esse número não é um hexadecimal')
+                str(input('Pressione qualquer tecla + Enter para continuar! : '))
+                x = 0
+                clear()
 
         #Caso o usuario insira uma opção que não exista irá cair nessa condição
         elif int(x) not in options:
@@ -241,7 +261,3 @@ while(int(x) != 9):
         str(input('Pressione qualquer tecla + Enter para continuar! : '))
         x = 0
         clear()
-
-
-
-    
