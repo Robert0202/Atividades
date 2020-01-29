@@ -261,3 +261,5 @@ while(int(x) != 9):
         str(input('Pressione qualquer tecla + Enter para continuar! : '))
         x = 0
         clear()
+
+str(input('PROGRAMA FINALIZADO!'))
