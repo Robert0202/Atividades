@@ -1,6 +1,5 @@
 import os
 import string
-import re
 
 #Modulo 'os' importado para usar a função de limpar o console
 #Modulo 'string' importado para usar a função que checa se uma string é um hexadecimal valido
@@ -13,48 +12,15 @@ clear = lambda: os.system('cls')
 
 #Recebe um valor decimal e retorna em binario
 def dec2bin(number):
-    números = []
-    binario = ''
-    posicao = number
-    while posicao != 0:
-        resto = posicao % 2
-        números.insert(0,resto)
-        posicao //= 2
-    for x in números:
-        binario += (str(x))
-    return int(binario)
+    return bin(number)
 
 #Recebe um valor binario e retorna em decimal
 def bin2dec(number):
-    tamanho = len(number)
-    potencia = 0
-    result = 0
-    for x in number:
-      contvalor = (int(number[tamanho-1]))*(2**potencia)
-      result+=contvalor
-      potencia+=1
-      tamanho-=1
-    return(result)
+    return int(number, 2)
 
 #Recebe um valor decimal e retorna em hexadecimal
 def dec2hex(number):
-    vetor = ('0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F')
-    vetorstring = []
-    hexadecimal = ''
-    while number != 0:
-        resto = number % 16
-        if 10 or 11 or 12 or 13 or 14 or 15 == resto:
-            convert = vetor[resto]
-            part = ''
-            part = part.replace(part, convert)
-            vetorstring.insert(0, part)
-        else:
-            vetorstring.insert(0, part)
-        number //= 16
-    hexadecimal = str(vetorstring) 
-    hexadecimal = re.sub(r"[\[', \]]", "", hexadecimal)
-
-    return hexadecimal
+    return hex(number)
 
 #Recebe um valor hexadecimal e retorna em decimal
 def hex2dec(number):
